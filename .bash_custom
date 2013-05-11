@@ -1,0 +1,3 @@
+NODEJS_HOME=$HOME/nodejs/current
+export PATH=$PATH:$NODEJS_HOME/bin
+
